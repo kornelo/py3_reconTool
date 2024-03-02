@@ -35,3 +35,5 @@ options = get_arguments()
 #use args 
 scan_result = scan(options.target)
 print_result(scan_result)
+
+#Written by dudEski
